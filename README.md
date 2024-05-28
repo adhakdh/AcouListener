@@ -1,7 +1,7 @@
-# AcouListener_v3
+# AcouListener
 
 ## Introduction
-AcouListener_v3 is an application designed to recognize handwritten input in VR meetings.
+AcouListener is an application designed to recognize handwritten input in VR meetings.
 
 ![shotscreen](image1.png)
 ![handwriting](image2.png)
