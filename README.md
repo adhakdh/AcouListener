@@ -1,8 +1,8 @@
 # AcouListener: An Inaudible Acoustic Side-channel Attack on Augmented and Virtual Reality Systems
 AR/VR devices deployed in close approximation to human bodies can continually collect human-sensitive data and become the targets of malicious attacks. To better understand the threats in AR/VR systems, we investigate a new concealed side-channel attack via inaudible acoustic signals, which can be sent and received by commercial off-the-shelf VR headsets and mobile phones. We name such an attack system as AcouListener. After processing received acoustic signals, we can capture the unique features of a victim's hand movements by a portable convolutional neural network. We implement AcouListener as a camouflaged mobile app, which can be installed on a VR device or mobile phone. We conduct extensive experiments targeting three common attack scenarios: (1) inferring victims' unlocking patterns, (2) inferring victims' handwriting patterns, and (3) inferring victims' typing words or passwords in virtual keyboards. Experimental results show that AcouListener achieves an average accuracy of 84% in unlocking pattern recognition, 96% in handwriting recognition, and 72% in typing recognition.
 
-# Experimental Setup:
-- ## Hardware devices.
+# Experimental Setup
+- ## Hardware devices
   * VR device: Oculus Quest 2
   * Mobile phone: Honor X10 and iPhone 12 pro
 
@@ -14,7 +14,7 @@ AR/VR devices deployed in close approximation to human bodies can continually co
   * Scenario 2: Leakage of Hand-Written Content
   * Scenario 3: Leakage of Hand Typing on Virtual Keyboards
 
-# Data Collection:
+# Data Collection
 - ## Experiment Setup
 In the attack scenarios, a volunteer sits on a chair in front of the desk, wears an Oculus Quest 2 HMD, holds the controllers in both hands, and makes corresponding hand movements. At the same time, a mobile phone was adopted to emit and receive corresponding inaudible audio and capture the volunteers’ hand movements. 
 
