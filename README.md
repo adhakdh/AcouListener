@@ -6,9 +6,6 @@ AR/VR devices deployed in close approximation to human bodies can continually co
   * VR device: Oculus Quest 2
   * Mobile phone: Honor X10 and iPhone 12 pro
 
-- ## Volunteers
-  * 10 volunteers with varied ages (20-30 years old), heights (158-185cm), and genders (7 males and 3 females)
-
 - ## Attack Scenario
   * Scenario 1: Unlocking Pattern Recovery
   * Scenario 2: Leakage of Hand-Written Content
