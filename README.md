@@ -27,6 +27,8 @@ In the attack scenarios, a volunteer sits on a chair in front of the desk, wears
 - With the collected data, CNN models for recognizing gestures can be trained. Models trained based on different scene data can recognize gestures suitable for the requirements of the scene. The Script for training CNN models can all be found at:
 `cat /cnn_model/train_cnn.py` <br/>
 
+![shotscreen](image3.png)
+
 # AcouListener
 ## Introduction
 We have developed an Android based application, namely AcouListener. This application can transmit training audio at an inaudible frequency band, collect audio, and calculate CIR in attack scenarios. Subsequently, through a built-in network model trained specifically for the attack scenario, the application is able to recognize the corresponding gestures.
