@@ -7,9 +7,9 @@ AR/VR devices deployed in close approximation to human bodies can continually co
   * Mobile phone: Honor X10 and iPhone 12 pro
 
 - ## Attack Scenario
-  * Scenario 1: Unlocking Pattern Recovery
-  * Scenario 2: Leakage of Hand-Written Content
-  * Scenario 3: Leakage of Hand Typing on Virtual Keyboards
+  * Scenario 1: Unlocking Pattern Inference
+  * Scenario 2: Hand-Written Content Inference
+  * Scenario 3: Hand Typing Inference
 
 # Data Collection
 - ## Experiment Setup
